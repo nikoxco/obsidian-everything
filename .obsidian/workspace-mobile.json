@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Niko/Incorporate daily friction check back update checklist.md",
+                "file": "Niko/Get better treats.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Incorporate daily friction check back update checklist"
+              "title": "Get better treats"
             }
           }
         ]
@@ -213,8 +213,9 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "7add692d64503bda",
+  "active": "caceae4a153fec1c",
   "lastOpenFiles": [
+    "Niko/Incorporate daily friction check back update checklist.md",
     "Niko/Niko.base",
     "Niko/Who’s to say you can’t have a good Monday (a narrative).md",
     "Niko/2026-04-11.md",
