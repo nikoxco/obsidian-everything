@@ -10,6 +10,7 @@ views:
       and:
         - file.folder == this.file.folder
         - formula.Visibility == "Show"
+        - file.ext != "base"
     groupBy:
       property: formula.Section
       direction: ASC

@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "97cd74a9aeb39bc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "13589c78fffa07fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "caceae4a153fec1c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "013fa25506a5e920",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ab0ef76c89440ff7",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "c2b937907bedc8e5",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "ebf371a9932e79f0",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "a8bfd4003522f8a1",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "750d67ecb0476942",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "9d92b767528a2142",
+        "type": "leaf",
+        "state": {
+          "type": "mk-path-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "mk-path-view"
+        }
+      },
+      {
+        "id": "dbad17b9c9cb98a0",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {},
+          "icon": "clock",
+          "title": "Recent Files"
+        }
+      },
+      {
+        "id": "391d5377727c6e53",
+        "type": "leaf",
+        "state": {
+          "type": "recent-notes-view",
+          "state": {},
+          "icon": "clock-10",
+          "title": "Recent notes"
+        }
+      },
+      {
+        "id": "7add692d64503bda",
+        "type": "leaf",
+        "state": {
+          "type": "notebook-navigator",
+          "state": {},
+          "icon": "notebook-navigator",
+          "title": "Notebook Navigator"
+        }
+      }
+    ],
+    "currentTab": 7
+  },
+  "right": {
+    "id": "91615c6558a35cad",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4236102a5a111e9e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Niko.base",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "3a8c9c37901088ef",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "2ab7b1eb76ffed66",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-importer:Open Importer": false,
+      "recent-notes:Recent notes": false,
+      "notebook-navigator:Notebook Navigator": false
+    }
+  },
+  "active": "caceae4a153fec1c",
+  "lastOpenFiles": [
+    "Niko.base",
+    "Untitled",
+    "Niko/Untitled 3.md",
+    "Niko/Niko.base",
+    "Niko/Cancel Meta sub.md",
+    "Niko/Test.md",
+    "Niko/Testing 123.md",
+    "Untitled.md",
+    "Niko/If not connected to WiFi make it so I can still talk to OpenClaw through my backup local model Qwen 3.5.md",
+    "Niko/A possibility for why I’m not getting pregnant.md",
+    "Watchlist/House Of Dynamite.md",
+    "Niko/Make sure alibaba cloud is setup before expiring.md",
+    "Niko/take out all trash & clean microwave for mama ❤️.md",
+    "Niko/Follow up with mark it’s been almost 3 months.md",
+    "Niko/Still have no working openclaw backup or auto learnings.md enforcement feature.md",
+    "Niko/Another important thing… don’t assume just because something is in my inbox a thoughts are related sometimes I use notes.md",
+    "Niko/This is my inbox.md",
+    "Test 1.md",
+    "test 1/Test 2.md",
+    "test 1",
+    "Niko/Figure out Rell staying with us and contact.md",
+    "Niko/Once requirements met put a reminder to switch banks - not when paid but when met.md",
+    "Niko/Setup charging and stuff in the room.md",
+    "Niko/Ships within 2-3 business days.md",
+    "Niko/Setup OpenClaw access on Kasey’s computer and help her automate her job other than meetings and phone calls.md",
+    "Niko/Set up my personal number for OpenClaw as a backup agent.md",
+    "Niko/Review tania’s site.md",
+    "Niko/Get general check up blood sugar etc.md",
+    "Niko/Everyday I need to make a decision in my heart which things are worth the headache and stick with it.md",
+    "Attachments/AAAABaEAfzuwGItaDkUIillhTrjnFqAQHJ_KQCL-HiHcWCn0GZGwQJn7jpnfGWnX3Ctj7bJJEajd5YwS_hmFVw8_sFtXjunTWNRsW-kU.jpg",
+    "Tags",
+    "Everything.base"
+  ]
+}
