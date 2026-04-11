@@ -11,13 +11,15 @@
             "id": "caceae4a153fec1c",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Niko/Niko.base",
-                "viewName": "Home"
+                "file": "Niko/Build grounding reminder structure into openclaw.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-table",
-              "title": "Niko"
+              "icon": "lucide-file",
+              "title": "Build grounding reminder structure into openclaw"
             }
           }
         ]
@@ -131,7 +133,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Niko/Niko.base",
+            "file": "Niko/Build grounding reminder structure into openclaw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -191,8 +193,9 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "7add692d64503bda",
+  "active": "caceae4a153fec1c",
   "lastOpenFiles": [
+    "Niko/Niko.base",
     "Niko/Zane Activities System.md",
     "Niko/Zane Activities System/Car Wash with Zane.md",
     "Niko/Zane Activities System/Keep practicing shooting daily with Zane.md",
@@ -218,8 +221,6 @@
     "Niko/Figure out lunch routine, feel lost/Start nap time with one worship song in headphones to reground self.md",
     "Niko/Figure out lunch routine, feel lost/Do home stuff during Kasey’s workout - is this even needed.md",
     "Niko/Incorporate daily friction check back update checklist.md",
-    "Niko/Niko.base",
-    "Niko/Who’s to say you can’t have a good Monday (a narrative).md",
     "Niko.base",
     "Untitled",
     "test 1",
