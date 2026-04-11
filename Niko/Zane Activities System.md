@@ -16,9 +16,6 @@ Step 1: Pick One Highly Involved Activity (PlayTime):**
 	- FaceTime - just the official FaceTime icon 👍🏽
 	- Photos App
 
-Test
-	Test
-
 Speakable Cards Animals
 
 Colorful Blocks Stacking
