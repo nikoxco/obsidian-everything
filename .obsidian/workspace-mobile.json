@@ -11,13 +11,15 @@
             "id": "caceae4a153fec1c",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Niko/Niko.base",
-                "viewName": "Home"
+                "file": "Niko/Build grounding reminder structure into openclaw.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-table",
-              "title": "Niko"
+              "icon": "lucide-file",
+              "title": "Build grounding reminder structure into openclaw"
             }
           }
         ]
@@ -131,7 +133,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Niko/Niko.base",
+            "file": "Niko/Build grounding reminder structure into openclaw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -188,15 +190,19 @@
       "bases:Create new base": false,
       "obsidian-importer:Open Importer": false,
       "recent-notes:Recent notes": false,
-      "notebook-navigator:Notebook Navigator": false
+      "notebook-navigator:Notebook Navigator": false,
+      "iconic:Open rulebook": false
     }
   },
   "active": "caceae4a153fec1c",
   "lastOpenFiles": [
-    "Niko/Buy Texas Allergy stuff.md",
     "Niko/Niko.base",
-    "Niko/Bro I stopped working “after 3 strikes” and something magically started working.md",
+    "Niko/3 strikes you’re out… pray.md",
+    "Niko/Get better treats.md",
     "Niko/Build grounding reminder structure into openclaw.md",
+    "Niko/Cancel insurance for Tesla.md",
+    "Niko/Buy Texas Allergy stuff.md",
+    "Niko/Bro I stopped working “after 3 strikes” and something magically started working.md",
     "Niko/Zane Activities System.md",
     "Niko/Zane Activities System/Car Wash with Zane.md",
     "Niko/Zane Activities System/Keep practicing shooting daily with Zane.md",
@@ -215,10 +221,7 @@
     "Niko/When caught up financially/When caught up financially.md",
     "Niko/When caught up financially/Give each other $100 spending limit each month without asking basically if other person don’t ageee or doesn’t benefit both.md",
     "Niko/When caught up financially/Make Turo our actual spending account No budget necessary, once zero means we can’t spend anymore.md",
-    "Niko/Get better treats.md",
     "Niko/Figure out lunch routine, feel lost.md",
-    "Niko/Plan debt payoffs once financially Gucci/Plan debt payoffs once financially Gucci.md",
-    "Niko/Figure out lunch routine, feel lost/Figure out lunch routine, feel lost.md",
     "Niko.base",
     "Untitled",
     "test 1",
