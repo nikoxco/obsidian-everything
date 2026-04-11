@@ -11,15 +11,13 @@
             "id": "caceae4a153fec1c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Niko/Buy Texas Allergy stuff.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Niko/Niko.base",
+                "viewName": "Home"
               },
-              "icon": "lucide-file",
-              "title": "Buy Texas Allergy stuff"
+              "icon": "lucide-table",
+              "title": "Niko"
             }
           }
         ]
@@ -133,7 +131,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Niko/Buy Texas Allergy stuff.md",
+            "file": "Niko/Niko.base",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -195,7 +193,9 @@
   },
   "active": "caceae4a153fec1c",
   "lastOpenFiles": [
+    "Niko/Buy Texas Allergy stuff.md",
     "Niko/Niko.base",
+    "Niko/Bro I stopped working “after 3 strikes” and something magically started working.md",
     "Niko/Build grounding reminder structure into openclaw.md",
     "Niko/Zane Activities System.md",
     "Niko/Zane Activities System/Car Wash with Zane.md",
@@ -219,8 +219,6 @@
     "Niko/Figure out lunch routine, feel lost.md",
     "Niko/Plan debt payoffs once financially Gucci/Plan debt payoffs once financially Gucci.md",
     "Niko/Figure out lunch routine, feel lost/Figure out lunch routine, feel lost.md",
-    "Niko/Figure out lunch routine, feel lost/Start nap time with one worship song in headphones to reground self.md",
-    "Niko/Figure out lunch routine, feel lost/Do home stuff during Kasey’s workout - is this even needed.md",
     "Niko.base",
     "Untitled",
     "test 1",
