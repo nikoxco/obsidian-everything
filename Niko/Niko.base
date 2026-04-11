@@ -5,7 +5,7 @@ formulas:
   Order: if(file.properties.Pile == null || file.properties.Pile.length == 0, 11, if(file.properties.Pile.contains("Routine"), 14, if(file.properties.Pile.contains("Purpose"), 9, if(file.properties.Pile.contains("Project"), 10, if(file.properties.Pile.contains("Pursuit"), 12, if(file.properties.Pile.contains("Today"), 8, if(file.properties.Pile.contains("Think"), 5, if(file.properties.Pile.contains("Kasey"), 2, if(file.properties.Pile.contains("Done"), 1, if(file.properties.Pile.contains("Play"), 4, if(file.properties.Pile.contains("Home"), 6, if(file.properties.Pile.contains("Chat"), 13, if(file.properties.Pile.contains("Bro"), 3, if(file.properties.Pile.contains("Out"), 7, if(file.properties.Pile.contains("Do"), 15, 99)))))))))))))))
 views:
   - type: table
-    name: Home
+    name: 🏠 Home
     filters:
       and:
         - file.folder == this.file.folder

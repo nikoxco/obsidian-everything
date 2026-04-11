@@ -11,15 +11,13 @@
             "id": "caceae4a153fec1c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Review/One at a time simply means stay focused.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Niko/Niko.base",
+                "viewName": "Home"
               },
-              "icon": "lucide-file",
-              "title": "One at a time simply means stay focused"
+              "icon": "lucide-table",
+              "title": "Niko"
             }
           }
         ]
@@ -101,16 +99,6 @@
         }
       },
       {
-        "id": "9d92b767528a2142",
-        "type": "leaf",
-        "state": {
-          "type": "mk-path-view",
-          "state": {},
-          "icon": "lucide-ghost",
-          "title": "mk-path-view"
-        }
-      },
-      {
         "id": "7add692d64503bda",
         "type": "leaf",
         "state": {
@@ -121,7 +109,7 @@
         }
       }
     ],
-    "currentTab": 6
+    "currentTab": 5
   },
   "right": {
     "id": "91615c6558a35cad",
@@ -133,7 +121,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Review/One at a time simply means stay focused.md",
+            "file": "Niko/Niko.base",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -196,9 +184,9 @@
   },
   "active": "caceae4a153fec1c",
   "lastOpenFiles": [
+    "Review/One at a time simply means stay focused.md",
     "Review/If in a slump implement these.md",
     "Review/One at a time simply means stay focused. Stay focused simply means laser like energy (which is powerful) to break through (the Lord says NOTHING can stop your laser) Hallelujah SEE NOTES/One at a time simply means stay focused. Stay focused simply means laser like energy (which is powerful) to break through (the Lord says NOTHING can stop your laser) Hallelujah SEE NOTES.md",
-    "Review/One at a time simply means stay focused.md",
     "Review/One at a time simply means stay focused. Stay focused simply means laser like energy (which is powerful) to break through (the Lord says NOTHING can stop your laser) Hallelujah SEE NOTES/Today things came up, urgent things to fix. Is that to be expected How do I work around Etc. like what do I do, this obviously can’t keep happening or the pile happens “Lord whispered stay focused”.md",
     "Niko/Build grounding reminder structure into openclaw.md",
     "Niko/Niko.base",
