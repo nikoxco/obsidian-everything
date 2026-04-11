@@ -11,10 +11,13 @@
             "id": "caceae4a153fec1c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "bases",
+              "state": {
+                "file": "Niko/Niko.base",
+                "viewName": "Home"
+              },
+              "icon": "lucide-table",
+              "title": "Niko"
             }
           }
         ]
@@ -136,7 +139,7 @@
         }
       }
     ],
-    "currentTab": 7
+    "currentTab": 8
   },
   "right": {
     "id": "91615c6558a35cad",
@@ -148,7 +151,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Niko.base",
+            "file": "Niko/Niko.base",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -193,6 +196,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -208,6 +212,8 @@
   },
   "active": "caceae4a153fec1c",
   "lastOpenFiles": [
+    "Niko/Who’s to say you can’t have a good Monday (a narrative).md",
+    "Niko/2026-04-11.md",
     "Niko.base",
     "Untitled",
     "Niko/Untitled 3.md",
@@ -236,7 +242,6 @@
     "Niko/Set up my personal number for OpenClaw as a backup agent.md",
     "Niko/Review tania’s site.md",
     "Niko/Get general check up blood sugar etc.md",
-    "Niko/Everyday I need to make a decision in my heart which things are worth the headache and stick with it.md",
     "Attachments/AAAABaEAfzuwGItaDkUIillhTrjnFqAQHJ_KQCL-HiHcWCn0GZGwQJn7jpnfGWnX3Ctj7bJJEajd5YwS_hmFVw8_sFtXjunTWNRsW-kU.jpg",
     "Tags",
     "Everything.base"
