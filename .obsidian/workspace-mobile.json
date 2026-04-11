@@ -11,15 +11,13 @@
             "id": "caceae4a153fec1c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Niko/Zane Activities System.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Niko/Niko.base",
+                "viewName": "Home"
               },
-              "icon": "lucide-file",
-              "title": "Zane Activities System"
+              "icon": "lucide-table",
+              "title": "Niko"
             }
           }
         ]
@@ -111,26 +109,6 @@
         }
       },
       {
-        "id": "dbad17b9c9cb98a0",
-        "type": "leaf",
-        "state": {
-          "type": "recent-files",
-          "state": {},
-          "icon": "clock",
-          "title": "Recent Files"
-        }
-      },
-      {
-        "id": "391d5377727c6e53",
-        "type": "leaf",
-        "state": {
-          "type": "recent-notes-view",
-          "state": {},
-          "icon": "clock-10",
-          "title": "Recent notes"
-        }
-      },
-      {
         "id": "7add692d64503bda",
         "type": "leaf",
         "state": {
@@ -141,7 +119,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 6
   },
   "right": {
     "id": "91615c6558a35cad",
@@ -153,7 +131,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Niko/Zane Activities System.md",
+            "file": "Niko/Niko.base",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -213,10 +191,10 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "ab0ef76c89440ff7",
+  "active": "7add692d64503bda",
   "lastOpenFiles": [
-    "Niko/Zane Activities System/Car Wash with Zane.md",
     "Niko/Zane Activities System.md",
+    "Niko/Zane Activities System/Car Wash with Zane.md",
     "Niko/Zane Activities System/Keep practicing shooting daily with Zane.md",
     "Niko/Zane Activities System/Clean water dirty water and animals game outside.md",
     "Niko/Start Credit Churning.md",
