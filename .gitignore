@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Obsidian plugin configs (keep your plugin settings local)
+.obsidian/plugins/
+.obsidian/app-migration.json
+.obsidian/workspace.json
+
+# Space configs (personal to each device)
+.space/
+
+# Trash
+.trash/
+Trash/
+
+# MakeMd plugin cache
+.makemd/
+
+# Temp files
+*.tmp
+*~

@@ -1,0 +1,11 @@
+{
+  "cssTheme": "Minimal",
+  "accentColor": "#000000",
+  "theme": "system",
+  "enabledCssSnippets": [
+    "no-table-borders"
+  ],
+  "autoFullScreen": true,
+  "floatingNavigation": true,
+  "slidingSidebar": true
+}
