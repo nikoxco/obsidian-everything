@@ -1,6 +1,14 @@
 ---
-notion-id: 31793272-91a2-80d4-b343-cafb9768b8e1
+notion-id: 31693272-91a2-80e5-8125-d7e19a86f7bc
+base: "[[Niko.base]]"
+Pile: Do
+Recurring: false
+Pin: false
+Date Added: 2026-02-28T20:57:00
+Alarm: 2026-04-01
+Hide: Show
 ---
+
 Blood test and stress test if not 100% in 2 weeks
 
 **1. The "Heart-Healthy" Diet**
@@ -10,7 +18,7 @@ Blood test and stress test if not 100% in 2 weeks
 
 **2. Stress Management**
 
-- Since arguments trigger this, learning "de-escalation" or breathing techniques isn't just for your marriage—it’s for your heart. When you feel that heat rising during a disagreement, your heart is literally under physical strain.
+- Since arguments trigger this, learning "de-escalation" or breathing techniques isn't just for your marriage—it's for your heart. When you feel that heat rising during a disagreement, your heart is literally under physical strain.
 
 **3. Controlled Exercise**
 
@@ -26,6 +34,6 @@ If your heart is sending you signals during both physical and **emotional** stre
 
 **Your Next Step**
 
-**Schedule a "Stress Test" or a "Nuclear Stress Test."** This is the gold standard for your situation. They will put you on a treadmill and monitor your heart while it’s under stress to see exactly what is happening to the blood flow.
+**Schedule a "Stress Test" or a "Nuclear Stress Test."** This is the gold standard for your situation. They will put you on a treadmill and monitor your heart while it's under stress to see exactly what is happening to the blood flow.
 
-**Would you like me to help you draft a specific "symptom log" you can show a doctor to make sure they take these emotional triggers seriously?**
+- **Advice**

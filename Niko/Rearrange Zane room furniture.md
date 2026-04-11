@@ -8,6 +8,5 @@ Date Added: 2026-02-15T18:36:00
 Hide: Hide
 ---
 
-[[Move camera positioning to see Zane bed better]]
-
-[[Move Zane table back in his room]]
+- **Move camera positioning to see Zane bed better**
+- **Move Zane table back in his room**
