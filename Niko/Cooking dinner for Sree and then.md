@@ -1,6 +1,6 @@
 ---
 notion-id: 33693272-91a2-8006-adcd-ddb49c4f865c
-base: "[[Niko.base]]"
+base: "[[Do.base]]"
 Pile: Chat
 Recurring: false
 Pin: false

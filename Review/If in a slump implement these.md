@@ -1,6 +1,6 @@
 ---
 notion-id: 2da93272-91a2-80d1-867e-eca1e1ec7846
-base: "[[Review.base]]"
+base: "[[Be.base]]"
 Pile: Clarity
 Recurring: false
 Date Added: 2025-12-31T09:51:00

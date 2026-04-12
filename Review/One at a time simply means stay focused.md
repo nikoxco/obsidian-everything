@@ -1,6 +1,6 @@
 ---
 notion-id: 2dc93272-91a2-809e-b134-e1220878f0c0
-base: "[[Review.base]]"
+base: "[[Be.base]]"
 Pile: Perspective
 Recurring: false
 Date Added: 2026-01-02T13:11:00

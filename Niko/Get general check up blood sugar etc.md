@@ -1,6 +1,6 @@
 ---
 notion-id: 31f93272-91a2-80d4-aa07-caca260fd777
-base: "[[Niko.base]]"
+base: "[[Do.base]]"
 Pile: Do
 Recurring: false
 Pin: false

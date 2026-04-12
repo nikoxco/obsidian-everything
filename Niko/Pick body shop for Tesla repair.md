@@ -1,6 +1,6 @@
 ---
 notion-id: 33593272-91a2-8051-b823-f44225ad6406
-base: "[[Niko.base]]"
+base: "[[Do.base]]"
 Pile: Kasey
 Recurring: false
 Pin: false

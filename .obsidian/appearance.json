@@ -1,7 +1,7 @@
 {
   "cssTheme": "Minimalist Studio",
   "accentColor": "#000000",
-  "theme": "system",
+  "theme": "moonstone",
   "enabledCssSnippets": [
     "no-table-borders"
   ],

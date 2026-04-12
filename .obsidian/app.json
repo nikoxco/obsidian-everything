@@ -4,5 +4,6 @@
   "newFileFolderPath": "Inbox",
   "attachmentFolderPath": "Attachments",
   "readableLineLength": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }
