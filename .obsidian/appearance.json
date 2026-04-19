@@ -3,7 +3,8 @@
   "accentColor": "#808080",
   "theme": "system",
   "enabledCssSnippets": [
-    "no-table-borders"
+    "no-table-borders",
+    "mobile-padding"
   ],
   "autoFullScreen": true,
   "floatingNavigation": true,

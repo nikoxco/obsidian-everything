@@ -39,7 +39,7 @@ The Cycle:
 
 	Kasey Collab Questions To Think About ASAP:
 	  What does collaboration look like right now?
-   Should Kasey work within my Notion space to see what she can help with? Or just assign in am myself for clarity? What times should we expect her to work?
+Should Kasey work within my Notion space to see what she can help with? Or just assign in am myself for clarity? What times should we expect her to work?
 
 OpenClaw Foundational:
 	- organizing notes (just like this exact one with original text as source notes that are cited [1]), within the organizer, finish by an individual step making sure context wasn't lost (how?)
