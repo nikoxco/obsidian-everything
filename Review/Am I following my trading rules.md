@@ -1,6 +1,4 @@
 ---
-notion-id: 2a593272-91a2-81f8-83a7-cbeb1587347b
-base: "[[Be.base]]"
 Pile: Performance
 Recurring: false
 Date Added: 2025-11-08T12:17:00

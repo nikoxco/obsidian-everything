@@ -1,6 +1,4 @@
 ---
-notion-id: 14293272-91a2-8145-aed3-e8d5c3d3a6fa
-base: "[[Pursuit.base]]"
 Pile: Pursuit
 Date Added: 2024-11-18T10:28:00
 ---

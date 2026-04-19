@@ -1,6 +1,4 @@
 ---
-notion-id: 28793272-91a2-8041-b463-cf15cf40e75c
-base: "[[Be.base]]"
 Pile: Perspective
 Recurring: false
 Date Added: 2025-10-09T04:01:00

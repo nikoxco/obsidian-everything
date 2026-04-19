@@ -1,11 +1,13 @@
 {
   "cssTheme": "Minimalist Studio",
-  "accentColor": "#000000",
-  "theme": "moonstone",
+  "accentColor": "#808080",
+  "theme": "system",
   "enabledCssSnippets": [
     "no-table-borders"
   ],
   "autoFullScreen": true,
   "floatingNavigation": true,
-  "slidingSidebar": true
+  "slidingSidebar": true,
+  "showRibbon": false,
+  "translucency": false
 }

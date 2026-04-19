@@ -11,16 +11,107 @@
             "id": "caceae4a153fec1c",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Do/OpenClaw.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "OpenClaw"
+            }
+          },
+          {
+            "id": "bca1a4a83803a33c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Do/Remaining Patches For Obsidian Bot.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Remaining Patches For Obsidian Bot"
+            }
+          },
+          {
+            "id": "007496a5e0c3cae1",
+            "type": "leaf",
+            "state": {
               "type": "bases",
               "state": {
-                "file": "Niko/Niko.base",
-                "viewName": "🏠 Home"
+                "file": "Bases/Pursuit.base",
+                "viewName": "Table"
               },
               "icon": "lucide-table",
-              "title": "Niko"
+              "title": "Pursuit"
+            }
+          },
+          {
+            "id": "1c4d5f73d1fdd0ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Buy coconut oil.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Buy coconut oil"
+            }
+          },
+          {
+            "id": "ce99375181fae2bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Call Noa.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Call Noa"
+            }
+          },
+          {
+            "id": "a8f47966355ca285",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Buy coconut oil.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Buy coconut oil"
+            }
+          },
+          {
+            "id": "f6a53f4fa4a91acf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Watch/Adolescence.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Adolescence"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -35,7 +126,7 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical",
+            "sortOrder": "byModifiedTime",
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
@@ -109,7 +200,7 @@
         }
       }
     ],
-    "currentTab": 5
+    "currentTab": 0
   },
   "right": {
     "id": "91615c6558a35cad",
@@ -121,7 +212,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Niko/Niko.base",
+            "file": "Call Noa.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -166,8 +257,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
-      "obsidian-git:Open Git source control": false,
       "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -177,45 +266,51 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-importer:Open Importer": false,
-      "recent-notes:Recent notes": false,
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
+      "iconic:Open rulebook": false,
+      "obsidian42-brat:BRAT": false,
       "notebook-navigator:Notebook Navigator": false,
-      "iconic:Open rulebook": false
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "caceae4a153fec1c",
+  "active": "f6a53f4fa4a91acf",
   "lastOpenFiles": [
-    "Review/One at a time simply means stay focused.md",
-    "Review/If in a slump implement these.md",
-    "Review/One at a time simply means stay focused. Stay focused simply means laser like energy (which is powerful) to break through (the Lord says NOTHING can stop your laser) Hallelujah SEE NOTES/One at a time simply means stay focused. Stay focused simply means laser like energy (which is powerful) to break through (the Lord says NOTHING can stop your laser) Hallelujah SEE NOTES.md",
-    "Review/One at a time simply means stay focused. Stay focused simply means laser like energy (which is powerful) to break through (the Lord says NOTHING can stop your laser) Hallelujah SEE NOTES/Today things came up, urgent things to fix. Is that to be expected How do I work around Etc. like what do I do, this obviously can’t keep happening or the pile happens “Lord whispered stay focused”.md",
-    "Niko/Build grounding reminder structure into openclaw.md",
+    "Get finding Waldo book.md",
+    "Buy coconut oil.md",
+    "Start returning Zane toys if he doesn’t like them.md",
+    "Call Noa.md",
+    "Think about Zane big bday gift.md",
+    "Bases/Niko.base",
+    "Bases/Watch.base",
+    "Bases/Pursuit.base",
+    "Pursuit/God gave me the city of my heart’s desire, after short suffering.md",
+    "Pursuit/God answered the biggest prayer of somebody else..saved me.md",
+    "Pursuit/God answered my prayer to reach many people - through low quality videos 1.md",
+    "Pursuit/Angels speak to me in visions 1.md",
+    "Pursuit/A dove descended on my bed… the flew through a wall… then all the birds in Virginia came and made loud noises outside for 10 minutes straight… then back to COMPLETE silence 1.md",
+    "Bases/Do.base",
+    "Start loosing weight see how it makes me feel.md",
+    "Do/Think about Zane big bday gift.md",
+    "Do/Remaining Patches For Obsidian Bot.md",
+    "Watchlist/Watch Lost in Space  Netflix Official Site.md",
+    "Do/Do.base",
+    "Do/Obsidian Brain Dump.md",
+    "2026-04-14.md",
+    "Temp/OpenClaw Reasoning Plugin - Make sure there are rules to avoid this ->.md",
+    "Do/Fix The Loop.md",
+    "Templates/New File.md",
+    "Templates",
+    "Do/Get new iPhone charger.md",
+    "Do/Get blood work walk in appt.md",
+    "Do/God orchestrated this story to demonstrate his love for us, and to give us choice… take more time to bask in his proven love through his life.md",
+    "Do/Every day is a test with nothing but salvation to lose for.md",
+    "Do/Jesus is constantly telling us get back to being you… it’s what he died for to let go forgive or self and other and know we are forgiven and walk in freedom and carelessness.md",
+    "Do/Unfortunate untimely things give us unmatched clarity and passion which is good… so they are good. It brings us back to God, reminds us what’s important, gives us holy frustration passion, makes us tighten our strategy… for free?.md",
+    "Do/Return phone case.md",
     "Niko/Niko.base",
-    "Niko/3 strikes you’re out… pray.md",
-    "Niko/Get better treats.md",
-    "Niko/Cancel insurance for Tesla.md",
-    "Niko/Buy Texas Allergy stuff.md",
-    "Niko/Bro I stopped working “after 3 strikes” and something magically started working.md",
-    "Niko/Zane Activities System.md",
-    "Niko/Zane Activities System/Car Wash with Zane.md",
-    "Niko/Zane Activities System/Keep practicing shooting daily with Zane.md",
-    "Niko/Zane Activities System/Clean water dirty water and animals game outside.md",
-    "Niko/Start Credit Churning.md",
-    "Niko/Schedule Dentist for Zane.md",
-    "Niko/Rearrange Zane room furniture.md",
-    "Niko/Plan debt payoffs once financially Gucci.md",
-    "Niko/When caught up financially.md",
-    "Niko/Think about Zane big bday gift.md",
-    "Niko/If heart stuff still happening in a week schedule appointment to be safe for Zane and family.md",
-    "Niko/Start Credit Churning/Just try… it’s worth a try because nobody actually does it.md",
-    "Niko/Start Credit Churning/Credit Churning Tutorial.md",
-    "Niko/Start Credit Churning/Start Credit Churning.md",
-    "Niko/Think about Zane big bday gift/Think about Zane big bday gift.md",
-    "Niko/When caught up financially/When caught up financially.md",
     "Niko.base",
     "Untitled",
     "test 1",
-    "Attachments/AAAABaEAfzuwGItaDkUIillhTrjnFqAQHJ_KQCL-HiHcWCn0GZGwQJn7jpnfGWnX3Ctj7bJJEajd5YwS_hmFVw8_sFtXjunTWNRsW-kU.jpg",
-    "Tags",
-    "Everything.base"
+    "Attachments/AAAABaEAfzuwGItaDkUIillhTrjnFqAQHJ_KQCL-HiHcWCn0GZGwQJn7jpnfGWnX3Ctj7bJJEajd5YwS_hmFVw8_sFtXjunTWNRsW-kU.jpg"
   ]
 }

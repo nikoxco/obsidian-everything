@@ -1,10 +1,14 @@
 [
   "obsidian-importer",
-  "fold-properties-by-default",
   "settings-search",
   "obsidian-outliner",
-  "notebook-navigator",
-  "obsidian-focus-mode",
   "obsidian-style-settings",
-  "iconic"
+  "iconic",
+  "obsidian42-brat",
+  "dragger",
+  "obsidian-mind-map",
+  "multi-properties",
+  "omnisearch",
+  "obsidian-linter",
+  "obsidian-git"
 ]

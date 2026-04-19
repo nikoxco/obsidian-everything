@@ -1,0 +1,116 @@
+formulas:
+  Visibility: if((file.properties.Alarm != null && now() < file.properties.Alarm && (file.properties.Recurring || file.properties.Pile == null || file.properties.Pile.contains("Today"))) || (file.properties.Pile != null && file.properties.Pile.contains("Done") && !file.properties.Recurring) || (file.properties.Pile != null && file.properties.Pile.contains("Kasey")), "Hide", "Show")
+  Section: if(file.properties.Pile == null || file.properties.Pile.contains("Pursuit") || file.properties.Pile.contains("Chat") || file.properties.Pile.contains("Routine") || file.properties.Pile.contains("Do") || file.properties.Pile.contains("Today"), "Inbox", "Todo")
+  Inbox: file.properties.Pile == null
+  Order: if(file.properties.Pile == null || file.properties.Pile.length == 0, 11, if(file.properties.Pile.contains("Routine"), 14, if(file.properties.Pile.contains("Purpose"), 9, if(file.properties.Pile.contains("Project"), 10, if(file.properties.Pile.contains("Pursuit"), 12, if(file.properties.Pile.contains("Today"), 8, if(file.properties.Pile.contains("Think"), 5, if(file.properties.Pile.contains("Kasey"), 2, if(file.properties.Pile.contains("Done"), 1, if(file.properties.Pile.contains("Play"), 4, if(file.properties.Pile.contains("Home"), 6, if(file.properties.Pile.contains("Chat"), 13, if(file.properties.Pile.contains("Bro"), 3, if(file.properties.Pile.contains("Out"), 7, if(file.properties.Pile.contains("Do"), 15, 99)))))))))))))))
+views:
+  - type: table
+    name: 🏠 Home
+    filters:
+      and:
+        - formula.Visibility == "Show"
+        - |-
+          !file.inFolder("Pursuit") && !file.inFolder("Review") && !file.inFolder("Watch") && 
+          !file.inFolder("Bases") && 
+          !file.inFolder("Attachments")
+    groupBy:
+      property: formula.Section
+      direction: ASC
+    order:
+      - Pile
+      - file.name
+      - Alarm
+      - Pin
+      - Recurring
+      - URL
+      - file.ctime
+      - file.mtime
+      - formula.Order
+    sort:
+      - property: formula.Inbox
+        direction: DESC
+      - property: formula.Order
+        direction: ASC
+      - property: Pin
+        direction: DESC
+      - property: Alarm
+        direction: ASC
+    columnSize:
+      note.Pile: 78
+      file.name: 740
+      note.Alarm: 71
+  - type: table
+    name: ☕️ Office
+    filters:
+      and:
+        - |-
+          !file.inFolder("Pursuit") && !file.inFolder("Review") && !file.inFolder("Watch") && 
+          !file.inFolder("Bases") && 
+          !file.inFolder("Attachments")
+        - formula.Visibility == "Show"
+        - Pile.containsAny("Project", "Purpose", "Play", "Today")
+    groupBy:
+      property: formula.Order
+      direction: ASC
+    order:
+      - file.name
+      - Pile
+      - Pin
+      - Alarm
+      - Recurring
+      - file.ctime
+      - file.mtime
+    sort:
+      - property: Pin
+        direction: DESC
+      - property: Alarm
+        direction: ASC
+    columnSize:
+      file.name: 740
+  - type: table
+    name: All
+    filters:
+      and:
+        - |-
+          !file.inFolder("Pursuit") && !file.inFolder("Review") && !file.inFolder("Watch") && 
+          !file.inFolder("Bases") && 
+          !file.inFolder("Attachments")
+    order:
+      - file.name
+      - Pile
+      - URL
+      - Recurring
+      - Pin
+      - file.ctime
+      - file.mtime
+      - Alarm
+      - formula.Order
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 740
+  - type: table
+    name: Trash
+    filters:
+      and:
+        - |-
+          !file.inFolder("Pursuit") && !file.inFolder("Review") && !file.inFolder("Watch") && 
+          !file.inFolder("Bases") && 
+          !file.inFolder("Attachments")
+        - Pile == ["Done"]
+    order:
+      - file.name
+      - Pile
+      - URL
+      - Recurring
+      - Pin
+      - file.ctime
+      - file.mtime
+      - Alarm
+      - formula.Order
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 740

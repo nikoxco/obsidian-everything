@@ -1,6 +1,4 @@
 ---
-notion-id: 27a93272-91a2-80c0-9034-edf94ad490f4
-base: "[[Be.base]]"
 Pile: Faith
 Recurring: false
 Date Added: 2025-09-26T13:21:00

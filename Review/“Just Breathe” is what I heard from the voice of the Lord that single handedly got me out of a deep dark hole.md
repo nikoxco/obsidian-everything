@@ -1,6 +1,5 @@
 ---
-notion-id: 2a593272-91a2-8008-9c15-ebfc2fbc7630
-base: "[[Be.base]]"
+Alarm: 
 Pile: Clarity
 Recurring: false
 Date Added: 2025-11-08T12:16:00
