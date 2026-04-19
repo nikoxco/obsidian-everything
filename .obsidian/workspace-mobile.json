@@ -101,13 +101,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Watch/Adolescence.md",
+                "file": "Fix The Loop.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Adolescence"
+              "title": "Fix The Loop"
             }
           }
         ],
@@ -195,8 +195,8 @@
         "state": {
           "type": "notebook-navigator",
           "state": {},
-          "icon": "notebook-navigator",
-          "title": "Notebook Navigator"
+          "icon": "lucide-ghost",
+          "title": "notebook-navigator"
         }
       }
     ],
@@ -257,6 +257,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -266,23 +267,22 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-importer:Open Importer": false,
-      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
       "iconic:Open rulebook": false,
       "obsidian42-brat:BRAT": false,
-      "notebook-navigator:Notebook Navigator": false,
       "omnisearch:Omnisearch": false
     }
   },
   "active": "f6a53f4fa4a91acf",
   "lastOpenFiles": [
+    "Bases/Niko.base",
+    "Bases/Pursuit.base",
+    "Watch/Adolescence.md",
     "Get finding Waldo book.md",
     "Buy coconut oil.md",
     "Start returning Zane toys if he doesn’t like them.md",
     "Call Noa.md",
     "Think about Zane big bday gift.md",
-    "Bases/Niko.base",
     "Bases/Watch.base",
-    "Bases/Pursuit.base",
     "Pursuit/God gave me the city of my heart’s desire, after short suffering.md",
     "Pursuit/God answered the biggest prayer of somebody else..saved me.md",
     "Pursuit/God answered my prayer to reach many people - through low quality videos 1.md",
@@ -305,8 +305,6 @@
     "Do/God orchestrated this story to demonstrate his love for us, and to give us choice… take more time to bask in his proven love through his life.md",
     "Do/Every day is a test with nothing but salvation to lose for.md",
     "Do/Jesus is constantly telling us get back to being you… it’s what he died for to let go forgive or self and other and know we are forgiven and walk in freedom and carelessness.md",
-    "Do/Unfortunate untimely things give us unmatched clarity and passion which is good… so they are good. It brings us back to God, reminds us what’s important, gives us holy frustration passion, makes us tighten our strategy… for free?.md",
-    "Do/Return phone case.md",
     "Niko/Niko.base",
     "Niko.base",
     "Untitled",
