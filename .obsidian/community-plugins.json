@@ -1,14 +1,13 @@
 [
   "obsidian-importer",
   "settings-search",
-  "obsidian-outliner",
   "obsidian-style-settings",
   "iconic",
   "obsidian42-brat",
-  "dragger",
   "obsidian-mind-map",
   "multi-properties",
   "omnisearch",
   "obsidian-linter",
-  "obsidian-git"
+  "obsidian-git",
+  "dragger"
 ]
