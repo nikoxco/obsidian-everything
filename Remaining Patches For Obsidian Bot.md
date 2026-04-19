@@ -5,6 +5,8 @@ Pile:
 Alarm:
 Recurring: false
 ---
+Figure out how to create new note from text on mobile
+
 Default files to live in Do, maybe even just have no folders period? Idk gotta think about it but want this system STUPID simple
 
 Watch No Mercy Movie - Needs to be able to add stuff to watch list or either go back to having it all in the same singular base? What's the best option?
