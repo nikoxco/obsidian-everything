@@ -30,23 +30,19 @@ The Cycle:
 	- Systems broken need fixed -> Work needs to be done -> Life keeps happening -> As well as having a kid
 	- Have to work have to stay caught up -> Have to work even harder to catch up
 	- just for something a mood a event a urgency to put me back under water and catch up and don’t mention something in system breaking
-
-How To Optimize?
+      How To Optimize?
 	- We have to trap the trap in life in trading etc
 	- BE OK WITH THINGS GETTING LOST/IMPERFECT - HAVE A BACKUP JUST FOR ARCHIVE
 	- Good day have 8 hours of work, how do I make that count? That’s HALF the day
 	- I realize at least a hour or 2 per day is not knowing what to do and time wasted on doing random stuff I don’t even wanna do - even lunch break is a flow, 2 in the morning 2 at coffee shop 2 at nap 2 at coffee shop again 2 at night
 		- Kasey/AI Help, ALIGNED in GOAL, ENERGY ENERGY ENERGY
 
-Should Kasey work within my Notion space to see what she can help with? Or just assign in am myself for clarity? What times should we expect her to work?
 	Kasey Collab Questions To Think About ASAP:
-What does collaboration look like right now?
+	  What does collaboration look like right now?
+   Should Kasey work within my Notion space to see what she can help with? Or just assign in am myself for clarity? What times should we expect her to work?
 
 OpenClaw Foundational:
 	- organizing notes (just like this exact one with original text as source notes that are cited [1]), within the organizer, finish by an individual step making sure context wasn't lost (how?)
-
-
-
 
 Foundational:
 	OpenClaw Handles Pursuits - categories are enough for now, the only thing that needs to happen is longer ones more than a note be organized and thought on how to implement? Or just add it to think if it's worth it? revelations that are within 1 month need to be weighted at the top of notebooklm podcasts

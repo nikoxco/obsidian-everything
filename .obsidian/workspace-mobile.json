@@ -101,13 +101,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fix The Loop.md",
+                "file": "Remaining Patches For Obsidian Bot.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Fix The Loop"
+              "title": "Remaining Patches For Obsidian Bot"
             }
           }
         ],
@@ -274,9 +274,9 @@
   },
   "active": "f6a53f4fa4a91acf",
   "lastOpenFiles": [
+    "Fix The Loop.md",
     "Bases/Niko.base",
     "Remaining Patches For Obsidian Bot.md",
-    "Fix The Loop.md",
     "Kasey Collab Questions To Think About ASAP.md",
     "Obsidian Brain Dump.md",
     "Figure out how to share Obsidian with Kasey.md",

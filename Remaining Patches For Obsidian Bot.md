@@ -7,6 +7,15 @@ Recurring: false
 ---
 Figure out how to create new note from text on mobile
 
+Bigger toggles on mobile
+  svg.svg-icon.right-triangle {
+  width: 20px !important;
+  height: 20px !important;
+}
+  .is-mobile {
+  --checkbox-size: 25px;  /* Bigger checkboxes if nested */
+}
+
 Default files to live in Do, maybe even just have no folders period? Idk gotta think about it but want this system STUPID simple
 
 Watch No Mercy Movie - Needs to be able to add stuff to watch list or either go back to having it all in the same singular base? What's the best option?
