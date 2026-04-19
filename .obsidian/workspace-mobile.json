@@ -99,15 +99,13 @@
             "id": "f6a53f4fa4a91acf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Fix The Loop.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Bases/Niko.base",
+                "viewName": "Kasey"
               },
-              "icon": "lucide-file",
-              "title": "Fix The Loop"
+              "icon": "lucide-layout-grid",
+              "title": "Niko"
             }
           }
         ],
@@ -274,6 +272,8 @@
   },
   "active": "f6a53f4fa4a91acf",
   "lastOpenFiles": [
+    "Fix The Loop.md",
+    "Test do you see this?.md",
     "Bases/Niko.base",
     "Bases/Pursuit.base",
     "Watch/Adolescence.md",
@@ -304,7 +304,6 @@
     "Do/Get blood work walk in appt.md",
     "Do/God orchestrated this story to demonstrate his love for us, and to give us choice… take more time to bask in his proven love through his life.md",
     "Do/Every day is a test with nothing but salvation to lose for.md",
-    "Do/Jesus is constantly telling us get back to being you… it’s what he died for to let go forgive or self and other and know we are forgiven and walk in freedom and carelessness.md",
     "Niko/Niko.base",
     "Niko.base",
     "Untitled",

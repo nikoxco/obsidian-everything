@@ -139,3 +139,4 @@ views:
       file.name: 740
       note.Alarm: 71
     image: file.file
+    cardSize: 290
