@@ -114,3 +114,28 @@ views:
         direction: ASC
     columnSize:
       file.name: 740
+  - type: cards
+    name: Kasey
+    filters:
+      and:
+        - Pile == ["Kasey"]
+    groupBy:
+      property: formula.Section
+      direction: ASC
+    order:
+      - file.name
+      - Pile
+    sort:
+      - property: formula.Inbox
+        direction: DESC
+      - property: formula.Order
+        direction: ASC
+      - property: Pin
+        direction: DESC
+      - property: Alarm
+        direction: ASC
+    columnSize:
+      note.Pile: 78
+      file.name: 740
+      note.Alarm: 71
+    image: file.file
