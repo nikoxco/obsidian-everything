@@ -99,13 +99,15 @@
             "id": "f6a53f4fa4a91acf",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Bases/Niko.base",
-                "viewName": "Kasey"
+                "file": "Kasey Collab Questions To Think About ASAP.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-grid",
-              "title": "Niko"
+              "icon": "lucide-file",
+              "title": "Kasey Collab Questions To Think About ASAP"
             }
           }
         ],
@@ -272,9 +274,12 @@
   },
   "active": "f6a53f4fa4a91acf",
   "lastOpenFiles": [
-    "Fix The Loop.md",
-    "Test do you see this?.md",
     "Bases/Niko.base",
+    "Fix The Loop.md",
+    "Obsidian Brain Dump.md",
+    "Figure out how to share Obsidian with Kasey.md",
+    "Untitled.md",
+    "Test do you see this?.md",
     "Bases/Pursuit.base",
     "Watch/Adolescence.md",
     "Get finding Waldo book.md",
@@ -300,10 +305,6 @@
     "Do/Fix The Loop.md",
     "Templates/New File.md",
     "Templates",
-    "Do/Get new iPhone charger.md",
-    "Do/Get blood work walk in appt.md",
-    "Do/God orchestrated this story to demonstrate his love for us, and to give us choice… take more time to bask in his proven love through his life.md",
-    "Do/Every day is a test with nothing but salvation to lose for.md",
     "Niko/Niko.base",
     "Niko.base",
     "Untitled",

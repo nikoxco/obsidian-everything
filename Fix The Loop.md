@@ -33,10 +33,10 @@ The Cycle:
 
 How To Optimize?
 	- We have to trap the trap in life in trading etc
-	- Kasey/AI Help, ALIGNED in GOAL, ENERGY ENERGY ENERGY
 	- BE OK WITH THINGS GETTING LOST/IMPERFECT - HAVE A BACKUP JUST FOR ARCHIVE
 	- Good day have 8 hours of work, how do I make that count? That’s HALF the day
 	- I realize at least a hour or 2 per day is not knowing what to do and time wasted on doing random stuff I don’t even wanna do - even lunch break is a flow, 2 in the morning 2 at coffee shop 2 at nap 2 at coffee shop again 2 at night
+		- Kasey/AI Help, ALIGNED in GOAL, ENERGY ENERGY ENERGY
 
 
 OpenClaw Foundational:
